@@ -34,3 +34,26 @@
     left: 30px;
     top: 30px;
 }
+.container-banderas{
+    width: 100%;
+    position: absolute;
+}
+.bandera img{
+    width: 300px;
+    margin-left: 5px;
+
+}
+.b2{
+    position: relative;
+    left: 305px;
+    bottom: 204px;
+}
+.b3{
+    position: relative;
+    bottom: 204px;
+}
+.b4{
+    position: relative;
+    bottom: 408px;
+    left: 305px;
+}
